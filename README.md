@@ -1,6 +1,6 @@
 # Data Mining Project
 
-Repository created to contain the final code of Data Mining Project about a customer's segmentation of a fictional insurance company.
+Repository created to contain the final python code of Data Mining Project about a customer's segmentation of a fictional insurance company.
 
 ##### University Nova IMS | Lisbon, Portugal | January 2020.
 
